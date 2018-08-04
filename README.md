@@ -1,4 +1,6 @@
 # HQCategoryList
+
+![image](https://github.com/yanhaiqiang/HQCategoryList/blob/master/image.png)
 分类页列表联动效果，左边tableView，右边collectionView，右边实现整页滚动
 
 
