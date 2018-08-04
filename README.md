@@ -1,2 +1,5 @@
 # HQCategoryList
 分类页列表联动效果，左边tableView，右边collectionView，右边实现整页滚动
+
+
+刚开始拿到这样的需求的时候我首先想到的是使用两个tableView，在尝试玩后发现，tableView并没有整页滚动的方法。于是想到了使用collectionView,是每个item实现整页滚动，然后每个item里面再添加一个collectionnView，完美完成了产品给我的需求。幸好这个功能比根据手机壳改变背景色有容易一些，不然我也得和产品去一决高下了。
